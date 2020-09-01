@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "379306337058",
+    "firebase_url": "https://sandesh-77d72.firebaseio.com",
+    "project_id": "sandesh-77d72",
+    "storage_bucket": "sandesh-77d72.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379306337058:android:8b133d053865fc1cd9fb7b",
+        "android_client_info": {
+          "package_name": "com.yash.sandeshchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379306337058-iu7cp63r88343fjc80l2t707pepc5b1l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBk3IkIlC6UGOrN-UjZigDuBp0zrNPsr7w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379306337058-iu7cp63r88343fjc80l2t707pepc5b1l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>379306337058-gr2ehh5d17k5d6qmb0em87jaf0r8sp0v.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.379306337058-gr2ehh5d17k5d6qmb0em87jaf0r8sp0v</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAwdKfDhK0X0Rjr7rk6PjQ8M_qGR1XQUKs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>379306337058</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.yash.sandeshchat</string>
+	<key>PROJECT_ID</key>
+	<string>sandesh-77d72</string>
+	<key>STORAGE_BUCKET</key>
+	<string>sandesh-77d72.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:379306337058:ios:59a00f5a5892f4c0d9fb7b</string>
+	<key>DATABASE_URL</key>
+	<string>https://sandesh-77d72.firebaseio.com</string>
+</dict>
+</plist>
